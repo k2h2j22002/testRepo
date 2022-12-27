@@ -1,0 +1,5 @@
+git config --global user.name 유저네임(k2h2j22002) > 유저네임 권한 
+git config --global user.email 유저이메일(k2h2j22002@a.ut.ac.kr) > 유저 이메일 권한 
+git add 파일이름 > 푸쉬할 파일을 명단에 넣기
+git commit -m "Read me" > Read me 작성과 동시에 커밋
+git push 명단에 있는 파일 레포지토리에 푸쉬
